@@ -1,6 +1,6 @@
 # CF workers proxy
 ## cloudflare workers
-主要使用项目为 [edgetunnel](https://github.com/zizifn/edgetunnel)。
+主要使用项目为 [edgetunnel](https://github.com/zizifn/edgetunnel)
 
 ### 部署
 
